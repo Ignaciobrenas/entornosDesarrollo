@@ -103,6 +103,7 @@ echo "media de las notas es: "  .$media.   "<br>";
 
 
 
+
 echo "<h2>EJERCICIO 8</h2>";
 
 echo "la nota mas alta es: " . max($notas) . "<br>";
